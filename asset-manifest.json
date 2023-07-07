@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Card/static/css/main.3425ba1a.css",
+    "main.js": "/Movie-Card/static/js/main.1e190d4d.js",
+    "index.html": "/Movie-Card/index.html",
+    "main.3425ba1a.css.map": "/Movie-Card/static/css/main.3425ba1a.css.map",
+    "main.1e190d4d.js.map": "/Movie-Card/static/js/main.1e190d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3425ba1a.css",
+    "static/js/main.1e190d4d.js"
+  ]
+}
